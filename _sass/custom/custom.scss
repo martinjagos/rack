@@ -1,0 +1,15 @@
+.col {
+  float: left;
+  width: 50%;
+  padding: 1rem;
+}
+.row {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 600px) {
+  .col {
+    width: 100%;
+  }
+}
