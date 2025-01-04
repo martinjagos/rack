@@ -3,7 +3,7 @@ title: Úvod
 layout: home
 ---
 # **Krok 1:** Příprava
-![alt](000518670034.jpg) ![alt](000518670034.jpg){:class="col"}
+![alt](000518670034.jpg){:class="col"}
 - Před spuštěním 3D tisku vždy nejprve pečlivě ověřte kalibraci tiskové plochy a funkčnost trysky.  
 - Zvažte použití různých typů filamentů, abyste dosáhli kombinace pevnosti a estetické kvality.  
 - Pro dosažení maximální přesnosti se vyplatí nastavit menší výšku vrstvy, i když se tím tisk prodlouží.  
