@@ -12,10 +12,10 @@
 @media screen and (max-width: 600px) {
   .col {
     width: 100%;
-    padding: 1rem 0.5rem 1rem;
+    padding: 1rem 0.5rem 0rem;
   }
   .col-text {
     width: 100%;
-    padding-left: 3rem;
+    margin: 0.5rem 2rem;
   }
 }
