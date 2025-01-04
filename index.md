@@ -15,8 +15,11 @@ layout: home
 - Pro lepší přilnutí k podložce využijte vhodné lepidlo, pásku nebo speciální tiskovou podložku.
 {:class="col"}
 
-{: .warning }
-A paragraph
+{: .note-title }
+> My note title
+>
+> A paragraph with a custom title callout
+
 <br style="clear: left;" />
 
 # **Krok 2:** Setup
