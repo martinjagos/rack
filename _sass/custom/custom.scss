@@ -1,8 +1,8 @@
 img.col {
   float: left;
   width: 50%;
-  padding: 1rem 1rem 0rem;
-  border-radius: 10px;
+  padding: 1rem;
+  border-radius: 1.5rem;
 }
 ul.col {
   float: left;
@@ -12,9 +12,10 @@ ul.col {
 
 @media screen and (max-width: 600px) {
   img.col {
-    border-radius: 10px;
+    border-radius: 1.5rem;
     width: 100%;
-    padding: 1rem 0.5rem 0rem;
+    padding: 0.5rem;
+    margin-top: 1rem;
   }
   ul.col {
     width: 100%;
