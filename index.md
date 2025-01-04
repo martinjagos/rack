@@ -10,14 +10,12 @@ layout: home
 - Pokud je model příliš komplikovaný, rozložte ho do více dílů a následně sestavte dohromady.
 - Využijte podpůrných struktur s opatrností, aby po odejmutí nezanechaly nerovnosti na finálním modelu.  
 - Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.
-> Lorem ipsum amet...
-{: .highlight }
 {:class="col"}
 <br style="clear: left;" />
 
-{: .note-title }
-> My note title
+{: .warning-title }
+> POZOR
 >
-> Pro lepší přilnutí k podložce využijte vhodné lepidlo, pásku nebo speciální tiskovou podložku.
-
+> Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.
+---
 # **Krok 2:** Setup
