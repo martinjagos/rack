@@ -5,9 +5,7 @@ layout: home
 # Úvod
 ## Krok 1: Příprava
 
-  <div class="col">
-    <img src="000518670034.jpg">
-  </div>
-  {:style="col"}
+  <img src="000518670034.jpg">{:class="col"}
+  {:class="col"}
   - Zarovnejte obě části do pravého úhlu
   - Nechte lepidlo působit
