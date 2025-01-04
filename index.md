@@ -9,7 +9,9 @@ layout: home
 {: .label .label-green } - Pro dosažení maximální přesnosti se vyplatí nastavit menší výšku vrstvy, i když se tím tisk prodlouží.  
 - Pokud je model příliš komplikovaný, rozložte ho do více dílů a následně sestavte dohromady.
 - Využijte podpůrných struktur s opatrností, aby po odejmutí nezanechaly nerovnosti na finálním modelu.  
-- pozor{: .label .label-red } Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.  
+- Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.
+{: .warning }
+> Lorem ipsum amet...
 {:class="col"}
 <br style="clear: left;" />
 
