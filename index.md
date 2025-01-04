@@ -10,8 +10,7 @@ layout: home
 - Pokud je model příliš komplikovaný, rozložte ho do více dílů a následně sestavte dohromady.
 - Využijte podpůrných struktur s opatrností, aby po odejmutí nezanechaly nerovnosti na finálním modelu.  
 - Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.
-{: .warning }
-> Lorem ipsum amet...
+> Lorem ipsum amet... {: .note-title }
 {:class="col"}
 <br style="clear: left;" />
 
