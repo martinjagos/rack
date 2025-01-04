@@ -1,16 +1,20 @@
 .col {
   float: left;
   width: 50%;
-  padding: 1rem;
+  padding: 1rem 1rem 0rem;
 }
-.row {
-  content: "";
-  display: table;
-  clear: both;
+.col-text {
+  float: left;
+  width: 50%;
+  padding: 0.5rem 1.5rem 1rem 0rem;
 }
 @media screen and (max-width: 600px) {
   .col {
     width: 100%;
-    padding: 0.5rem 0.5rem 0rem;
+    padding: 1rem 0.5rem 0rem;
+  }
+  .col-text {
+    width: 100%;
+    padding: 1rem 1rem 0.5rem 0rem;
   }
 }
