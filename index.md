@@ -17,5 +17,7 @@ layout: home
 > POZOR
 >
 > Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.
+
 ---
+
 # **Krok 2:** Setup
