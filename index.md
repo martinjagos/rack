@@ -13,8 +13,8 @@ layout: home
 - Předejděte deformaci modelu správným nastavením rychlosti tisku a chlazení vrstev.  
 - Po dokončení 3D tisku pečlivě odstraňte přebytečný materiál nebo podpěry a povrch vyhlaďte.  
 - Pro lepší přilnutí k podložce využijte vhodné lepidlo, pásku nebo speciální tiskovou podložku.  
-> {: .warning }
-> K prodloužení životnosti tiskárny provádějte pravidelnou údržbu, včetně čištění trysky a mazání pohyblivých částí.
+{: .highlight }
+A paragraph
 {:class="col"}
 <br style="clear: left;" />
 
