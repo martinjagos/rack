@@ -10,15 +10,12 @@ layout: home
 - Pokud je model příliš komplikovaný, rozložte ho do více dílů a následně sestavte dohromady.
 - Využijte podpůrných struktur s opatrností, aby po odejmutí nezanechaly nerovnosti na finálním modelu.  
 - Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.  
-- Předejděte deformaci modelu správným nastavením rychlosti tisku a chlazení vrstev.  
-- Po dokončení 3D tisku pečlivě odstraňte přebytečný materiál nebo podpěry a povrch vyhlaďte.  
-- Pro lepší přilnutí k podložce využijte vhodné lepidlo, pásku nebo speciální tiskovou podložku.
 {:class="col"}
 <br style="clear: left;" />
 
+{: .note-title }
 > My note title
 >
-> A paragraph with a custom title callout
-{: .note-title }
+> Pro lepší přilnutí k podložce využijte vhodné lepidlo, pásku nebo speciální tiskovou podložku.
 
 # **Krok 2:** Setup
