@@ -14,12 +14,11 @@ layout: home
 - Po dokončení 3D tisku pečlivě odstraňte přebytečný materiál nebo podpěry a povrch vyhlaďte.  
 - Pro lepší přilnutí k podložce využijte vhodné lepidlo, pásku nebo speciální tiskovou podložku.
 {:class="col"}
+<br style="clear: left;" />
 
-{: .note-title }
 > My note title
 >
 > A paragraph with a custom title callout
-
-<br style="clear: left;" />
+{: .note-title }
 
 # **Krok 2:** Setup
