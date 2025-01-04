@@ -9,6 +9,6 @@ layout: home
 - Zarovnejte obě části do pravého úhlu
 - Nechte lepidlo působit
 {:class="col"}
-
+<br style="clear: left;" />
 ## Krok 2
 
