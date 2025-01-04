@@ -23,7 +23,7 @@ To get started with creating a site, simply:
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
-| ![alt-text-1](000518670034.jpg "title-1") | Hello |
+| ![alt-text-1](000518670034.jpg "title-1") | Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Curabitur vitae diam non enim vestibulum interdum. Aliquam ante. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Quisque porta. Fusce tellus. Cras pede libero, dapibus nec, pretium sit amet, tempor quis. Mauris elementum mauris vitae tortor. Nam sed tellus id magna elementum tincidunt. Donec quis nibh at felis congue commodo. Maecenas lorem. Vivamus porttitor turpis ac leo. Integer malesuada. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce suscipit libero eget elit. In enim a arcu imperdiet malesuada. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Aliquam erat volutpat. |
 
 ----
 
