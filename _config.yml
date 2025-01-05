@@ -28,5 +28,3 @@ kramdown:
     block:
       line_numbers: false
 
-plugins:
-  - jekyll-loading-lazy
