@@ -11,7 +11,7 @@ layout: home
   ```
   ls -a
   ```
-  {:class="cd"}
+  {: .cd}
 - Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.
 {:class="col"}
 <br style="clear: left;" />
