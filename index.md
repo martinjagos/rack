@@ -11,7 +11,7 @@ layout: home
   ```
   ls -a
   ```
-  {: .code}
+  {: .mt-3}
 - Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.
 {: .col}
 <br style="clear: left;" />
