@@ -10,7 +10,7 @@ layout: home
 - Pokud je model příliš komplikovaný, rozložte ho do více dílů a následně sestavte dohromady.
   ```
   ls -a
-  ```
+  ```{: .cd}
 - Při použití materiálů citlivých na teplotu si dejte pozor na stabilitu teploty uvnitř tiskárny.
 {:class="col"}
 <br style="clear: left;" />
