@@ -1,30 +1,23 @@
-@media print {
+img.col {
+  float: left;
+  width: 50%;
+  padding: 1rem;
+  border-radius: 1.5rem;
+}
+ul.col {
+  float: left;
+  width: 50%;
+  padding: 0.5rem 1rem 0rem 1.5rem;
+}
+@media screen and (max-width: 600px) {
   img.col {
-    float: left;
-    width: 50%;
-    padding: 1rem;
     border-radius: 1.5rem;
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 1rem;
   }
   ul.col {
-    float: left;
-    width: 50%;
-    padding: 0.5rem 1rem 0rem 1.5rem;
-  }
-  .code{
-    border-radius: 0.5rem;
-    margin-top: 0.5rem;
-  }
-  
-  @media screen and (max-width: 600px) {
-    img.col {
-      border-radius: 1.5rem;
-      width: 100%;
-      padding: 0.5rem;
-      margin-top: 1rem;
-    }
-    ul.col {
-      width: 100%;
-      padding: 0.5rem 2.5rem;
-    }
+    width: 100%;
+    padding: 0.5rem 2.5rem;
   }
 }
