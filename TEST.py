@@ -25,20 +25,22 @@ def moveSelection(way):
     # up = 1, down=0
     global menuSelection
     if way == 0:
-        if menuSelection+numberOfLines+1 < len(menuList or menuList[menuSelection].active is False:
+        if menuSelection < len(menuList) and menuList[menuSelection].active is False:
            menuList[menuSelection].active = True
            menuList[menuSelection-numberOfLines].active = False
         menuSelection = menuSelection + 1
         menuDisplay()
     if way == 1:
-        if menuSelection-numberOfLines+1 > len(menuList) or menuList[menuSelection].active is False:
-           menuList[menuSelection].active = True
-           menuList[menuSelection+numberOfLines].active = False
+        print(menuList[menuSelection-2].active)
+        if menuSelection-1 >= 1 and menuList[menuSelection-2].active is False:
+           menuList[menuSelection-2].active = True
+           menuList[menuSelection+numberOfLines-2].active = False
         menuSelection = menuSelection - 1
         menuDisplay()
 
 def menuDisplay():
     global menuSelection
+    print(menuSelection)
     i = 0
     for element in menuList:
         i = i+1
