@@ -3,7 +3,7 @@ title: Assets
 layout: default
 ---
 # **Krok 1:** Přípravaa
-![alt](000518670034.jpg){: .col}
+![alt](/images/000518670034.jpg){: .col}
 - Před spuštěním 3D tisku vždy nejprve pečlivě ověřte kalibraci tiskové plochy a funkčnost trysky.  
 - Zvažte použití různých typů filamentů, abyste dosáhli kombinace pevnosti a estetické kvality.  
 - Pro dosažení maximální přesnosti se vyplatí nastavit menší výšku vrstvy, i když se tím tisk prodlouží.  
