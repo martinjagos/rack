@@ -1,5 +1,5 @@
 ---
 title: Začínáme
-layout: default
+layout: home
 nav-order: 1
 ---
