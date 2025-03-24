@@ -1,6 +1,6 @@
 ---
 title: Základna
 layout: default
-parrent: Kostra racku
+parent: Kostra racku
 nav-order: 1
 ---
