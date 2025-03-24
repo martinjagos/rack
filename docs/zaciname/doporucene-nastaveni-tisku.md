@@ -5,11 +5,9 @@ parent: Začínáme
 nav_order: 1
 ---
 
-# Doporučené nastavení tisku
+# **Doporučené nastavení tisku**
 ## Úvod
-Pro lepší vzhled tisku doporučuji používat [zrnitý plát](https://www.prusa3d.com/cs/produkt/zrnity-pei-tiskovy-plat/)
-
-Aby byl model mechanicky odolný, je dobré ho tisknout z [PETG materiálu](https://www.prusa3d.com/cs/kategorie/prusament-petg/)
+Pro lepší vzhled tisku doporučuji používat [zrnitý plát](https://www.prusa3d.com/cs/produkt/zrnity-pei-tiskovy-plat/). Aby byl model mechanicky odolný, je dobré ho tisknout z [PETG materiálu](https://www.prusa3d.com/cs/kategorie/prusament-petg/)
 ## Nastavení filamentu
 Teplota trysky první vrstvy: **230 °C**
 
