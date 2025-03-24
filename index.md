@@ -1,6 +1,6 @@
 ---
-title: Úvod
-layout: home
+title: Assets
+layout: default
 ---
 # **Krok 1:** Příprava
 ![alt](000518670034.jpg){: .col}
