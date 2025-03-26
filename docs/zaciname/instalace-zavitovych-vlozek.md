@@ -34,6 +34,4 @@ Doporučuji vložky od značky CNC Kitchen, které můžete najít i na Prusa E-
 {: .col}
 <br style="clear: left;" />
 
-[Předchozí](../priprava){: .m-5 .float-left}
-
-[Další](../../kostra){: .m-5 .float-right}
+[Další](../../kostra)

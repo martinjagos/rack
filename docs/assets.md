@@ -24,3 +24,5 @@ layout: default
 ---
 
 # **Krok 2:** Setup
+
+[Další]()

@@ -36,6 +36,4 @@ nav_order: 1
 {: .col}
 <br style="clear: left;" />
 
-[Předchozí](../){: .m-5 .float-left}
-
-[Další](../sestaveni){: .m-5 .float-right}
+[Další](../sestaveni)
