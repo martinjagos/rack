@@ -9,12 +9,13 @@ nav_order: 1
 ---
 
 ## **Krok 1:** Příprava
+
 - Budete potřebovat modely:
     - rpi5_base.stl
     - rpi5_front.stl
     - 2x modul_holder.stl
 - Cca 27 m filamentu
-
+{: .step}
 ---
 
 ## **Krok 2:** Ve Sliceru
@@ -28,7 +29,7 @@ nav_order: 1
 
 ---
 
-# **Krok 3:** Instalace
+## **Krok 3:** Instalace
 ![alt](/images/P1470372.JPG){: .col}
 -	Vložky vložte do připraveného otvoru zkosenou stranou
 -	Opatrně, kolmo a s mírnou silou zatlačte vložku do plastu, aby byla vložka zarovnaná s plochou platové části.

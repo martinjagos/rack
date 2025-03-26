@@ -8,17 +8,17 @@ nav_order: 2
 
 ---
 
-# **Krok 1:** Příprava
+## **Krok 1:** Příprava
 <br style="clear: left;" />
 
 ---
 
-# **Krok 2:** Montáž
+## **Krok 2:** Montáž
 <br style="clear: left;" />
 
 ---
 
-# **Krok 3:** Zapojení
+## **Krok 3:** Zapojení
 <br style="clear: left;" />
 
 ---
