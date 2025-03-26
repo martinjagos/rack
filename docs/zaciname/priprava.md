@@ -5,5 +5,6 @@ parent: Začínáme
 nav_order: 2
 ---
 
-[Předchozí](../doporucene-nastaveni-tisku){: .btn }
-[Další](../instalace-zavitovych-vlozek){: .btn }
+[Předchozí](../doporucene-nastaveni-tisku){: .m-5 .float-left}
+
+[Další](../instalace-zavitovych-vlozek){: .m-5 .float-right}

@@ -20,5 +20,6 @@ Pro lepší vzhled tisku doporučuji používat [zrnitý plát](https://www.prus
 - Pokud se vám rohy výtisků odlepují, doporučuji použít okraje (brim).
 - Výška vrstev: **0.2 mm**
 
-[Předchozí](https://rack.martinjagos.eu/){: .btn }
-[Další](../priprava){: .btn }
+[Předchozí](https://rack.martinjagos.eu/){: .m-5 .float-left}
+
+[Další](../priprava){: .m-5 .float-right}
