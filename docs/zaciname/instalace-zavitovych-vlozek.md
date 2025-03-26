@@ -6,6 +6,8 @@ nav_order: 3
 ---
 # Instalace závitových vložek
 
+---
+
 ## **Krok 1:** Výběr závitových vložek
 
 Jiné vložky můžou mít jiné uchycení, proto nedoporučuji vybírat ty nejlevnější. Levné vložky nemusí mít zkosení pro jednodušší instalaci. Doporučuji vložky od značky CNC Kitchen, které můžete najít i na Prusa E-shopu.
