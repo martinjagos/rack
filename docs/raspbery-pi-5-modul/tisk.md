@@ -2,7 +2,7 @@
 title: Tisk
 layout: default
 parent: Raspberry Pi 5 modul
-nav-order: 1
+nav_order: 1
 ---
 
 # **Krok 1:** Příprava

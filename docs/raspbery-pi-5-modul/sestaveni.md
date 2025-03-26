@@ -2,7 +2,7 @@
 title: Sestavení
 layout: default
 parent: Raspberry Pi 5 modul
-nav-order: 2
+nav_order: 2
 ---
 
 # **Krok 1:** Příprava
