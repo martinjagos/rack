@@ -35,3 +35,5 @@ nav_order: 1
 -	Opatrně, kolmo a s mírnou silou zatlačte vložku do plastu, aby byla vložka zarovnaná s plochou platové části.
 {: .col}
 <br style="clear: left;" />
+
+[Další](sestaveni.md)
