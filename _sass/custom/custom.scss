@@ -9,12 +9,17 @@ ul.col {
   width: 50%;
   padding: 0.5rem 1rem 0rem 1.5rem;
 }
+p.col {
+    margin-top: 2rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
 @media screen and (max-width: 600px) {
   img.col {
     border-radius: 1.5rem;
     width: 100%;
     padding: 0.5rem;
-    margin-top: 1rem;
+    //margin-top: 1rem;
   }
   ul.col {
     width: 100%;
