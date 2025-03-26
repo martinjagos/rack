@@ -22,3 +22,7 @@ nav_order: 2
 <br style="clear: left;" />
 
 ---
+
+[Předchozí](../tisk){: .m-5 .float-left}
+
+[Další](../../network-modul){: .m-5 .float-right}
