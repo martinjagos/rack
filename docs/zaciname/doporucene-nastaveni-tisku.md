@@ -19,3 +19,6 @@ Pro lepší vzhled tisku doporučuji používat [zrnitý plát](https://www.prus
 - Ve většině modelech je 15% výplně dostačující, ale pro úsporu můžete využít i 10%.
 - Pokud se vám rohy výtisků odlepují, doporučuji použít okraje (brim).
 - Výška vrstev: **0.2 mm**
+
+[Předchozí](https://rack.martinjagos.eu/){: .btn }
+[Další](../priprava){: .btn }

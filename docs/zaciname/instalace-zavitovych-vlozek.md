@@ -33,3 +33,6 @@ Doporučuji vložky od značky CNC Kitchen, které můžete najít i na Prusa E-
 -	Opatrně, kolmo a s mírnou silou zatlačte vložku do plastu, aby byla vložka zarovnaná s plochou platové části.
 {: .col}
 <br style="clear: left;" />
+
+[Předchozí](../priprava){: .btn }
+[Další](../../kostra){: .btn }
