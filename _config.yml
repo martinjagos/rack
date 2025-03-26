@@ -30,3 +30,4 @@ kramdown:
     block:
       line_numbers: false
 
+baseurl: "/docs"
