@@ -23,6 +23,4 @@ nav_order: 2
 
 ---
 
-[Předchozí](../tisk){: .m-5 .float-left}
-
-[Další](../../network-modul){: .m-5 .float-right}
+[Další](../../network-modul)
