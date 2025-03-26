@@ -2,7 +2,7 @@
 title: Instalace závitových vložek
 layout: default
 parent: Začínáme
-nav_order: 2
+nav_order: 3
 ---
 # Instalace závitových vložek
 
