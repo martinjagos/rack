@@ -13,6 +13,8 @@ Jiné vložky můžou mít jiné uchycení, proto nedoporučuji vybírat ty nejl
 # **Krok 2:** Příprava
 Budete potřebovat páječku, závitové vložky a malé kleště nebo pinzetu. Páječku si předehřejte na teplotu pro daný filament, ze kterého byla daná část vytištěna, zvětšenou o 10 °C.
 
+<br style="clear: left;" />
+
 # **Krok 3:** Instalace
 ![alt](/images/P1470372.JPG){: .col}
 -	Vložky vložte do připraveného otvoru zkosenou stranou
