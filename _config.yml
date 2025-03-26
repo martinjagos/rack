@@ -2,7 +2,7 @@ title: Desktop rack
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://rack.martinjagos.eu
+url: "https://rack.martinjagos.eu"
 
 permalink: pretty
 
