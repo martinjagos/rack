@@ -50,7 +50,7 @@ nav_order: 3
 ![alt](/images/P1470448.JPG){: .col}
 - Přilepte *roof_lid* ke stávající konstrukci střechy do vyřezaného prostoru
 - Doporučuji po nalepení nechat chvíli zatvrdnout s kolíkama, jak vidíte na obrázku
-- Po zatvrdnutí můžete po kolejnici zasunout do vašecho racku a utáhnout zezadu dvěma šrouby M3x6 s kulatou hlavou
+- Po zatvrdnutí můžete po kolejnici zasunout střechu do vašeho racku a utáhnout zezadu dvěma šrouby M3x6 s kulatou hlavou
 {: .col}
 <br style="clear: left;" />
 
