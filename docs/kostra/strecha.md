@@ -9,6 +9,10 @@ nav-order: 3
 
 ---
 
+
+
+
+
 ## **Krok 1:** Tisk
 
 [Další]()
