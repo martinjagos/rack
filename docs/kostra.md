@@ -6,7 +6,7 @@ nav_order: 2
 
 # Kostra racku
 
-## Toto je kapitola o sestavení samotné konstrukce racku, pokračujte kliknutím na tlačítko "další"
+## Kapitola o sestavení samotné konstrukce racku, pokračujte kliknutím na tlačítko "další"
 
 ---
 

@@ -19,7 +19,7 @@ nav_order: 4
     - *network_base*
     - *network_left-hand*
     - *network_right-hand*
-    - 2x *assets_module_moult*
+    - 2x *assets_module_mount*
 {: .step}
 
 - Dále budete potřebovat materiály:

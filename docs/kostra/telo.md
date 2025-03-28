@@ -23,7 +23,7 @@ nav_order: 2
 
 - Dále budete potřebovat materiály:
   - lepidlo
-  - 22x závitové ložky M3x3
+  - 22x závitové vložky M3x3
   - 20x šrouby M3x8 se zkosenou hlavou
   - 2x šrouby M3x6 s kulatou hlavou
   - 4x Plovoucí matice a M6 šroub

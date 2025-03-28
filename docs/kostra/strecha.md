@@ -56,4 +56,4 @@ nav_order: 3
 
 ---
 
-[Další]()
+[Další](../../raspberry-pi-5-modul)
