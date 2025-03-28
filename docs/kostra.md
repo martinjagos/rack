@@ -4,4 +4,10 @@ layout: default
 nav_order: 2
 ---
 
-[Další]()
+# Kostra racku
+
+## Toto je kapilola, jak sestavit samotný rack, pokračujte kliknutím na tlačítko Další
+
+---
+
+[Další](/zakladna)
