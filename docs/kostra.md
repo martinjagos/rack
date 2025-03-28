@@ -6,8 +6,8 @@ nav_order: 2
 
 # Kostra racku
 
-## Toto je kapilola, jak sestavit samotný rack, pokračujte kliknutím na tlačítko Další
+## Toto je kapitola o sestavení samotné konstrukce racku, pokračujte kliknutím na tlačítko "další"
 
 ---
 
-[Další](/zakladna)
+[Další](./zakladna)
