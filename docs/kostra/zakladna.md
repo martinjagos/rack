@@ -12,21 +12,22 @@ nav-order: 1
 ## **Příprava**
 
 - Budete potřebovat modely:
-    - base_back-bar
-    - base_front-bar
-    - base_lid
-    - base_right-bar
+    - *base_back-bar*
+    - *base_front-bar*
+    - *base_lid*
+    - *base_right-bar*
 {: .step}
 
 - Dále budete potřebovat materiály:
     - lepidlo
-    - 10x závitové ložky M3
-    - 8x šrouby M3
+    - 10x závitové vložky M3x3
+    - 8x šrouby M3x6 s kulatou hlavou
     - 265g filamentu (při použití 10% výplně)
 {: .step}
 
 - Použité nástroje:
     - pájecí stanice
+    - šroubovák
 {: .step}
 
 ---
