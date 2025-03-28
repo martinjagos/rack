@@ -27,6 +27,7 @@ nav_order: 2
   - 20x šrouby M3x8 se zkosenou hlavou
   - 2x šrouby M3x6 s kulatou hlavou
   - 4x Plovoucí matice a M6 šroub
+  - 205g filamentu (při použití 10% výplně a 100% na 2x *body_module_holder*)
 {: .step}
 
 - Použité nástroje:
