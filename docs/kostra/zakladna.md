@@ -2,7 +2,7 @@
 title: Základna
 layout: default
 parent: Kostra racku
-nav-order: 1
+nav_order: 1
 ---
 
 # Základna

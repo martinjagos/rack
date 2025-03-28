@@ -2,7 +2,7 @@
 title: Tělo
 layout: default
 parent: Kostra racku
-nav-order: 2
+nav_order: 2
 ---
 
 # Tělo (patro)
@@ -26,6 +26,7 @@ nav-order: 2
   - 22x závitové ložky M3x3
   - 20x šrouby M3x8 se zkosenou hlavou
   - 2x šrouby M3x6 s kulatou hlavou
+  - 4x Plovoucí matice a M6 šroub
 {: .step}
 
 - Použité nástroje:
@@ -44,7 +45,7 @@ nav-order: 2
 {: .col}
 <br style="clear: left;" />
 
-![alt](/images/base_print2.png){: .col}
+![alt](/images/body_print2.png){: .col}
 - Dále ve Sliceru položte objekty *body_left-cover a body_right-cover* větší základnou směrem vzhůru
 - Nakonec vytisňěte modely *body_back-bar* a *body_back-cover* nebo *body_back-cover-open*, pravděpodobně je budete muset dát do úhlopříčky podložky
 - Po tisku odstraňte všechny podpěry
@@ -110,10 +111,17 @@ nav-order: 2
 {: .col}
 <br style="clear: left;" />
 
+---
+
 ## **Krok 6:** Zabudování do kostrukce
 ![alt](/images/P1470418.JPG){: .col}
 - Nasaďte kolejnici na předchozí patro nebo základnu a dosuňte až nadoraz
 - Přitáhněte patro zezadu pomocí dvou šroubů M3x6 s kulatou hlavou
+{: .col}
+<br style="clear: left;" />
+
+![alt](/images/P1470420.JPG){: .col}
+- Přidělete 2x plovoucí matice do držáků zařízení jak je ukázáno na obrázku
 {: .col}
 <br style="clear: left;" />
 

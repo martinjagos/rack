@@ -2,7 +2,7 @@
 title: Střecha
 layout: default
 parent: Kostra racku
-nav-order: 3
+nav_order: 3
 ---
 
 # Střecha
