@@ -11,24 +11,21 @@ nav-order: 2
 
 ## **Příprava**
 
-Budete potřebovat modely:
-{: .step}
+- Budete potřebovat modely:
   - base_back-bar
   - base_front-bar
   - base_lid
   - base_right-bar
 {: .step}
 
-Dále budete potřebovat materiály:
-{: .step}
+- Dále budete potřebovat materiály:
   - lepidlo
   - 10x závitové ložky M3
   - 8x šrouby M3
 {: .step}
 
-Použité nástroje:
-{: .step}
-- pájecí stanice
+- Použité nástroje:
+  - pájecí stanice
 {: .step}
 
 ---
