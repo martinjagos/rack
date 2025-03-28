@@ -22,6 +22,7 @@ Dále budete potřebovat materiály:
 - lepidlo
 - 10x závitové ložky M3
 - 8x šrouby M3
+- 265g filamentu (při použití 10% výplně)
 {: .step}
 
 Použité nástroje:

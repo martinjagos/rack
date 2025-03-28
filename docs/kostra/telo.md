@@ -13,17 +13,17 @@ nav-order: 2
 
 Budete potřebovat modely:
 {: .step}
-- base_back-bar
-- base_front-bar
-- base_lid
-- base_right-bar
+  - base_back-bar
+  - base_front-bar
+  - base_lid
+  - base_right-bar
 {: .step}
 
 Dále budete potřebovat materiály:
 {: .step}
-- lepidlo
-- 10x závitové ložky M3
-- 8x šrouby M3
+  - lepidlo
+  - 10x závitové ložky M3
+  - 8x šrouby M3
 {: .step}
 
 Použité nástroje:
