@@ -22,6 +22,7 @@ nav_order: 3
 - Dále budete potřebovat materiály:
   - lepidlo
   - 2x šrouby M3x6 s kulatou hlavou
+  - 255g filamentu
 {: .step}
 
 - Použité nástroje:
