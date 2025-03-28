@@ -36,4 +36,6 @@ nav_order: 1
 {: .col}
 <br style="clear: left;" />
 
+---
+
 [Další](../sestaveni)

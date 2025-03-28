@@ -125,4 +125,6 @@ nav_order: 2
 {: .col}
 <br style="clear: left;" />
 
+---
+
 [Další](../strecha)
