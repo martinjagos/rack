@@ -75,10 +75,9 @@ Použité nástroje:
 
 ## **Krok 3:** Přidání spodního víka
 
-![alt](/images/P1470390.JPG){: .col}
-- Slepte modely *base_back-bar, base_front-bar, base_left-bar a base_right-bar* podle obrázku
-- Ujistěte se, že máte model *base_front-bar* u zkosení stran modelů *base_left-bar a base_right-bar*
+![alt](/images/P1470394.JPG){: .col}
+- Nakonec pomocí 8 šroubů M3 připevněte *base_lid* na stávající konstrukci
 {: .col}
 <br style="clear: left;" />
 
-[Další]()
+[Další](../telo)
