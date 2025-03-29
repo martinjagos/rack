@@ -72,4 +72,4 @@ nav_order: 4
 
 ---
 
-[Další]()
+[Další](../kontrola-teploty-vlhkosti)
