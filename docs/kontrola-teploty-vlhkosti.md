@@ -101,7 +101,6 @@ Nahrajte na mikrokontroler následující skript:
 {: .step}
 
 ```c++
-
 #include "ThingSpeak.h"
 #include <ESP8266WiFi.h>
 #include "Adafruit_SHT4x.h"
@@ -198,7 +197,6 @@ void loop() {
 
   delay(15000);
 }
-
 ```
 
 - Změňte proměnnou *SECRET_SSID* na SSID vaší bezdrátové sítě, *SECRET_PASS* na heslo vaší bezdrátové sítě, *SECRET_CH_ID* na ID vašeho kanálu na ThingSpeak
