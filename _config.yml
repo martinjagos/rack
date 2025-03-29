@@ -32,3 +32,14 @@ kramdown:
 
 back_to_top: true
 back_to_top_text: "Back to top"
+
+collections:
+  kostra:
+    output: true
+
+collections_dir: docs
+
+just_the_docs:
+  collections:
+    kostra:
+      name: Kostra
