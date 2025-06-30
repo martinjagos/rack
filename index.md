@@ -15,11 +15,11 @@ nav_order: 1
 Cílem této práce je navrhnout model stolního racku určeného pro domácí použití. Rack je optimalizovaný pro 3D tisk a jeho největší předností jsou modularita a rozšiřitelnost, které umožňují uživatelům vytvořit různě velká řešení podle svých potřeb a preferencí.  
 {: .step}
 
-Práce zahrnuje klíčové moduly:  
+Práce zahrnuje klíčové moduly:
+{: .step}
+
 - **Modul pro chytrou správu teploty a vlhkosti** – měření a regulace prostředí uvnitř racku přes Wi-Fi, včetně rotačního enkodéru, tlačítek a displeje pro lokální i vzdálené ovládání.  
-{: .step}
 - **Modul pro připevnění síťových zařízení** – držáky pro stolní síťové komponenty bez standardního uchycení do racku.  
-{: .step}
 - **Modul pro Raspberry Pi 5** – slot pro jednodeskový počítač s integrovanou správou a kontrolou.  
 {: .step}
 
