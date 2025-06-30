@@ -12,21 +12,42 @@ nav_order: 1
 
 ## **Představení projektu**
 
-Cílem této práce je navrhnout model stolního racku určeného pro domácí použití. Rack je optimalizovaný pro 3D tisk a jeho největší předností jsou modularita a rozšiřitelnost, které umožňují uživatelům vytvořit různě velká řešení podle svých potřeb a preferencí.  
+Tento modulární 10" desktop rack je kompletní 3D-tisknutelné řešení pro domácí i kancelářské použití. S jeho pomocí si snadno sestavíte stabilní skříňku pro váš mini-server, laboratorní přístroje nebo síťová zařízení.  
 {: .step}
 
-Práce zahrnuje klíčové moduly:
+V této příručce najdete vše, co potřebujete k úspěšnému tisku a montáži: od doporučeného nastavení tiskárny, přes instalaci závitových vložek, až po osazení doplňkových modulů (Raspberry Pi 5, síťové zařízení, senzory teploty a vlhkosti). Každý krok je doplněný obrázky a tipy pro bezproblémový průběh montáže.  
 {: .step}
 
-- **Modul pro chytrou správu teploty a vlhkosti** – měření a regulace prostředí uvnitř racku přes Wi-Fi, včetně rotačního enkodéru, tlačítek a displeje pro lokální i vzdálené ovládání.  
-- **Modul pro připevnění síťových zařízení** – držáky pro stolní síťové komponenty bez standardního uchycení do racku.  
-- **Modul pro Raspberry Pi 5** – slot pro jednodeskový počítač s integrovanou správou a kontrolou.  
+Model vyniká **modularitou**, **rozšiřitelností** a **kompatibilitou** se standardními 10" rack systémy. Díly jsou navrženy pro rychlý tisk a pevné spojení pomocí M3/M6 šroubů a závitových vložek, takže získáte robustní konstrukci, kterou lze kdykoli rozšířit o další patra nebo funkční moduly.  
 {: .step}
 
-Důležitou součástí návrhu je také **kompatibilita s 10" rackovými systémy**. Řešení umožňuje připojení síťových prvků, jako jsou routery, switche a patch panely pomocí standardních M6 šroubů a matic, přičemž mechanické díly zajišťují pevné a spolehlivé uchycení.  
+---
+
+## **Co budete potřebovat**
+
+- 3D tiskárna s tiskovým polem alespoň 200 × 200 mm  
+- Filament PETG (doporučeno) nebo PLA  
+- Závitové vložky M3/M6, šrouby a matice  
+- Imbusové klíče, kleště a pinzetu  
+- Zdroj napájení a síťové připojení (Wi-Fi/Ethernet)  
 {: .step}
 
-Veškeré STL soubory, kompletní dokumentace a ukázkové fotografie jsou k dispozici na Printables.com: [Desktop 10" rack](https://www.printables.com/model/1246254-desktop-10-rack)  
+---
+
+## **Struktura manuálu**
+
+1. **Začínáme**
+   - Doporučené nastavení tisku – parametry pro optimální výsledky  
+   - Instalace závitových vložek* – příprava pevných spojů  
+2. **Sestavení racku**  
+   - Základna  
+   - Tělo  
+   - Střecha  
+3. **Moduly**  
+   - Raspberry Pi 5  
+   - Síťové zařízení  
+   - Teplota a vlhkost  
+4. **Časté dotazy** – řešení běžných problémů  
 {: .step}
 
 ---
