@@ -38,4 +38,4 @@ Projekt je licencován pod [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.h
 
 ---
 
-[Další krok: Doporučené nastavení tisku](/zaciname/doporucene-nastaveni-tisku/)
+[Další](/docs/zaciname/doporucene-nastaveni-tisku/)
