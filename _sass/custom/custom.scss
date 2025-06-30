@@ -4,6 +4,12 @@ img.col {
   padding: 1rem;
   border-radius: 1.5rem;
 }
+img.center {
+  float: center;
+  width: 50%;
+  padding: 1rem;
+  border-radius: 1.5rem;
+}
 ul.col {
   float: left;
   width: 50%;
@@ -26,6 +32,12 @@ ul.step {
 
 @media screen and (max-width: 600px) {
   img.col {
+    border-radius: 1.5rem;
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 1rem;
+  }
+  img.center {
     border-radius: 1.5rem;
     width: 100%;
     padding: 0.5rem;

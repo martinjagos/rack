@@ -10,14 +10,14 @@ nav_order: 1
 
 ## **Představení projektu**
 
-![alt](/images/P1470473.JPG){: .col}
-- Modulární stolní 10" rack navržený pro 3D tisk, ideální pro domácí laboratoře i kanceláře. Hlavní přednosti:{: .col}
-    - **Modularita** – snadné přidávání i odebírání jednotlivých modulů podle potřeby.  
-    - **Rozšiřitelnost** – volitelné komponenty pro různé aplikace.  
-    - **Kompatibilita** – podporuje standardní 19" síťová zařízení i jednodeskové počítače.  
-    - **Domácí použití** – kompaktní rozměry a jednoduchá instalace.  
-{: .col}
-<br style="clear: left;" />
+![alt](/images/P1470473.JPG){: .center}
+
+Modulární stolní 10" rack navržený pro 3D tisk, ideální pro domácí laboratoře i kanceláře. Hlavní přednosti:
+- **Modularita** – snadné přidávání i odebírání jednotlivých modulů podle potřeby.  
+- **Rozšiřitelnost** – volitelné komponenty pro různé aplikace.  
+- **Kompatibilita** – podporuje standardní 10" síťová zařízení i jednodeskové počítače.  
+- **Domácí použití** – kompaktní rozměry a jednoduchá instalace.  
+{: .step}
 
 ---
 
@@ -58,4 +58,4 @@ Projekt je licencován pod [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.h
 
 ---
 
-[Další krok: Doporučené nastavení tisku](/zaciname/doporucene-nastaveni-tisku/)  
+[Další krok: Doporučené nastavení tisku](/docs/zaciname/doporucene-nastaveni-tisku/)  
