@@ -38,43 +38,43 @@ nav_order: 2
 ---
 
 ## **Krok 1:** Tisk
+
 ![alt](/images/body_print1.png){: .col}
-- Ve Sliceru položte objekty *body_left-bar, body_right-bar a 2x body_module_holder*, tak je ukázané na obrázku
-- Přidejte na objekty *body_module_holder* 100% výplň
-- Přidejte podpěry všude
-- Po tisku odstraňte všechny podpěry
+- Ve Sliceru rozmístěte *body_left-bar*, *body_right-bar* a 2× *body_module_holder* podle obrázku  
+- Pro *body_module_holder* nastavte 100 % výplň  
+- Aktivujte podpěry pro všechny převisy  
+- Po tisku odstraňte všechny podpěry  
 {: .col}
 <br style="clear: left;" />
 
 ![alt](/images/body_print2.png){: .col}
-- Dále ve Sliceru položte objekty *body_left-cover a body_right-cover* větší základnou směrem vzhůru
-- Nakonec vytisňěte modely *body_back-bar* a *body_back-cover* nebo *body_back-cover-open*, pravděpodobně je budete muset dát do úhlopříčky podložky
-- Po tisku odstraňte všechny podpěry
+- Rozmístěte *body_left-cover* a *body_right-cover* širší stranou nahoru  
+- Vytiskněte *body_back-bar* a *body_back-cover* (nebo *body_back-cover-open*) v úhlopříčném směru  
+- Po tisku odstraňte všechny podpěry  
 {: .col}
 <br style="clear: left;" />
 
 ---
 
-## **Krok 2:** Závitové vložky
+## **Krok 2:** Vložení závitových vložek
 
 ![alt](/images/P1470396.JPG){: .col}
-- Přidejte podle obrázku závitové vložky do otvorů na modelech *body_left-bar* a *body_right-bar*
+- Přidejte vložky do otvorů na *body_left-bar* a *body_right-bar* podle obrázku  
 {: .col}
 <br style="clear: left;" />
 
 ![alt](/images/P1470400.JPG){: .col}
-- Otočte modely a také přidejte podle obrázku závitové vložky do otvorů na modelech *body_left-bar* a *body_right-bar*
+- Otočte díly a vložte další závitové vložky na druhé straně *body_left-bar* a *body_right-bar*  
 {: .col}
 <br style="clear: left;" />
 
 ![alt](/images/P1470404.JPG){: .col}
-- Podle obrázku přidejte závitové vložky i na zadní stranu modelů *body_left-bar* a *body_right-bar*
+- Dopňte vložky na zadní stranu *body_left-bar* a *body_right-bar*  
 {: .col}
 <br style="clear: left;" />
 
 ![alt](/images/P1470406.JPG){: .col}
-- Podle obrázku přidejte závitové vložky do modelu *body_back-bar*
-- Pozor! všimňěte si, na kterou stranu vložky tádáte, musí být na opačné straně než jsou boční výběžky
+- Vložte závitové vložky do *body_back-bar* (zkosení směřuje od výstupků)  
 {: .col}
 <br style="clear: left;" />
 
@@ -83,46 +83,47 @@ nav_order: 2
 ## **Krok 3:** Lepení
 
 ![alt](/images/P1470411.JPG){: .col}
-- Slepte modely *body_back-bar, body_left-bar a body_right-bar* podle obrázku
-- Pozor! Závitové vložky by měly směřovat směrem ven
+- Slepte *body_back-bar*, *body_left-bar* a *body_right-bar* podle fotografie  
+- Závitové vložky musí směřovat ven  
 {: .col}
 <br style="clear: left;" />
 
 ---
 
-## **Krok 4:** Přidělání bočních panelů
+## **Krok 4:** Montáž bočních panelů
 
 ![alt](/images/P1470412.JPG){: .col}
-- Přidělejte zadní panel *body_back-cover* nebo *body_back-cover-open* na zadní stranu slepené kostrukce pomocí čtyř šroubů M3x8 se zkosenou hlavou
+- Připevněte *body_back-cover* (nebo *body_back-cover-open*) čtyřmi šrouby M3×8  
 {: .col}
 <br style="clear: left;" />
 
 ![alt](/images/P1470414.JPG){: .col}
-- Přidělejte boční panel *body_right-cover* na pravou stranu slepené kostrukce pomocí čtyř šroubů M3x8 se zkosenou hlavou
-- To stejné zopakujte i na lefé straně
+- Připevněte *body_right-cover* šrouby M3×8  
+- Stejným způsobem připevněte *body_left-cover*  
 {: .col}
 <br style="clear: left;" />
 
 ---
 
 ## **Krok 5:** Přidělání držáků modulů
+
 ![alt](/images/P1470416.JPG){: .col}
-- Pomocí 2 šroubů M3x8 se zkosenou hlavou, přidělejte *body_module_holder*, jak je ukázané na obrázku nebo do zadního místa
-- To stejné zopakujte i na druhé straně
+- Upevněte 2× *body_module_holder* šrouby M3×8 podle obrázku  
 {: .col}
 <br style="clear: left;" />
 
 ---
 
-## **Krok 6:** Zabudování do kostrukce
+## **Krok 6:** Instalace do konstrukce
+
 ![alt](/images/P1470418.JPG){: .col}
-- Nasaďte kolejnici na předchozí patro nebo základnu a dosuňte až nadoraz
-- Přitáhněte patro zezadu pomocí dvou šroubů M3x6 s kulatou hlavou
+- Posuňte patro na předchozí vrstvu nebo základnu až na doraz  
+- Zajistěte dvěma šrouby M3×6 vzadu  
 {: .col}
 <br style="clear: left;" />
 
 ![alt](/images/P1470420.JPG){: .col}
-- Přidělete 2x plovoucí matice do držáků zařízení jak je ukázáno na obrázku
+- Vložte 2× plovoucí matice do držáků zařízení  
 {: .col}
 <br style="clear: left;" />
 

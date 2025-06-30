@@ -11,55 +11,56 @@ nav_order: 1
 
 ## **Příprava**
 
-- Budete potřebovat modely:
+- Budete potřebovat následující modely:
     - *base_back-bar*
     - *base_front-bar*
-    - *base_lid*
-    - *base_right-bar*
+    - *base_left-bar*
+    - *base_right-bar*  
 {: .step}
 
-- Dále budete potřebovat materiály:
-    - lepidlo
-    - 10x závitové vložky M3x3
-    - 8x šrouby M3x6 s kulatou hlavou
-    - 265g filamentu (při použití 10% výplně)
+- Dále připravte materiály:
+    - Lepidlo
+    - 10× závitových vložek M3×3
+    - 8× šroubů M3×6 s kulatou hlavou
+    - Přibližně 265 g filamentu (10 % výplně)  
 {: .step}
 
-- Použité nástroje:
-    - pájecí stanice
-    - šroubovák
+-Použité nástroje:
+    - Pájecí stanice
+    - Šroubovák  
 {: .step}
 
 ---
 
 ## **Krok 1:** Tisk
+
 ![alt](/images/base_print1.png){: .col}
-- Ve Sliceru položte objekty, tak je ukázané na obrázku
-- Přidejte podpěry všude
-- Na položení modelu *base_lid* nezáleží
-- Po tisku odstraňte všechny podpěry
+- Ve Sliceru rozmístěte díly tak, jak je na obrázku  
+- Aktivujte podpěry pro všechny převisy  
+- Orientace dílu *base_lid* není kritická  
+- Po tisku pečlivě odstraňte všechny podpěry  
 {: .col}
 <br style="clear: left;" />
 
 ---
 
-## **Krok 2:** Závitové vložky
+## **Krok 2:** Vložení závitových vložek
 
 ![alt](/images/P1470375.JPG){: .col}
-- Přidejte otvorů na modelu *base_front-bar* 3 závitové vložky
-- Stejňě to udělejte i na modelu *base_back-bar*
+- Do *base_front-bar* zatlačte 3 vložky  
+- Totéž proveďte u *base_back-bar*  
 {: .col}
 <br style="clear: left;" />
 
 ![alt](/images/P1470376.JPG){: .col}
-- Přidejte na model *base_left-bar* 1 závitovou vložku podle obrázku
-- Stejňě to udělejte i na modelu *base_right-bar*
+- Na boční stěnu *base_left-bar* vložte 1 vložku  
+- Stejně postupujte u *base_right-bar*  
 {: .col}
 <br style="clear: left;" />
 
 ![alt](/images/P1470417.JPG){: .col}
-- Přidejte zezadu modelu *base_left-bar* 1 závitovou vložku podle obrázku
-- Stejňě to udělejte i na modelu *base_right-bar*
+- Zezadu doplňte 1 vložku do *base_left-bar*  
+- Totéž na *base_right-bar*  
 {: .col}
 <br style="clear: left;" />
 
@@ -68,17 +69,18 @@ nav_order: 1
 ## **Krok 3:** Lepení
 
 ![alt](/images/P1470390.JPG){: .col}
-- Slepte modely *base_back-bar, base_front-bar, base_left-bar a base_right-bar* podle obrázku
-- Ujistěte se, že máte model *base_front-bar* u zkosení stran modelů *base_left-bar a base_right-bar*
+- Slepte díly *base_back-bar*, *base_front-bar*, *base_left-bar* a *base_right-bar* přesně podle fotografie  
+- Ujistěte se, že zkosené hrany dílů lícují bez mezer  
 {: .col}
 <br style="clear: left;" />
 
 ---
 
-## **Krok 3:** Přidání spodního víka
+## **Krok 4:** Montáž spodního víka
 
 ![alt](/images/P1470394.JPG){: .col}
-- Nakonec pomocí 8 šroubů M3 připevněte *base_lid* na stávající konstrukci
+- Přiložte *base_lid* ke dnu základny  
+- Upevněte 8 šroubů M3×6, dokud není víko pevné  
 {: .col}
 <br style="clear: left;" />
 

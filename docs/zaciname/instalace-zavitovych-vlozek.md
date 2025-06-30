@@ -4,14 +4,16 @@ layout: default
 parent: Začínáme
 nav_order: 2
 ---
-
 # Instalace závitových vložek
 
 ---
 
 ## **Krok 1:** Výběr závitových vložek
 
-Vyberte kvalitní vložky s jemným zkosením pro snadnou instalaci – vyhněte se nejlevnějším.  
+Jiné vložky mohou mít odlišné uchycení a zkosení, což ztěžuje instalaci; nejlevnější varianty často postrádají potřebný detail.  
+{: .step}
+
+Doporučuji kovové závitové vložky CNC Kitchen (k dostání na Prusa E-shopu) – nabízejí precizní závit, kvalitní zkosení a vysokou odolnost.  
 {: .step}
 
 ---
@@ -19,27 +21,21 @@ Vyberte kvalitní vložky s jemným zkosením pro snadnou instalaci – vyhněte
 ## **Krok 2:** Příprava
 
 ![alt](/images/P1470368.JPG){: .col}
-- Páječka, závitové vložky, kleště nebo pinzeta a šroubovák  
-- Páječku předehřejte o 10 °C nad tiskovou teplotu materiálu  
+- Připravte páječku, závitové vložky, kleště nebo pinzetu a šroubovák  
+- Páječku předehřejte o 10 °C nad tiskovou teplotu použitého materiálu  
 {: .col}
 <br style="clear: left;" />
-
-Po vyčištění hrotu páječky se vyvarujte přepálení plastu.  
-{: .step}
 
 ---
 
 ## **Krok 3:** Instalace
 
 ![alt](/images/P1470372.JPG){: .col}
-- Vložku nasaďte zkosenou stranou do otvoru  
-- Kolmo zatlačte, dokud není zarovnaná s povrchem  
+- Vložku nasaďte zkosenou stranou kolmo do otvoru  
+- Jemně zatlačte, aby byla zarovnaná s povrchem dílu  
 {: .col}
 <br style="clear: left;" />
 
-Nechte plast po vložení vychladnout pro maximální pevnost spoje.  
-{: .step}
-
 ---
 
-[Další](../../sestaveni-racku/)
+[Další](../../sestaveni-racku)
