@@ -5,7 +5,8 @@ img.col {
   border-radius: 1.5rem;
 }
 img.center {
-  float: center;
+  display: block;
+  margin: auto;
   width: 50%;
   padding: 1rem;
   border-radius: 1.5rem;
