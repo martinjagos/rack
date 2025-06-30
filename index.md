@@ -28,8 +28,8 @@ Model vyniká **modularitou**, **rozšiřitelností** a **kompatibilitou** se st
 - 3D tiskárna s tiskovým polem alespoň 200 × 200 mm  
 - Filament PETG (doporučeno) nebo PLA  
 - Závitové vložky M3/M6, šrouby a matice  
-- Imbusové klíče, kleště a pinzetu  
-- Zdroj napájení a síťové připojení (Wi-Fi/Ethernet)  
+- Imbusové klíče, kleště a pinzetu
+- Elektronické součástky (podrobněji popsáno v dalších kapitolech)
 {: .step}
 
 ---
