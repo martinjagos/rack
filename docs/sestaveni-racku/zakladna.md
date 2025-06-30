@@ -1,7 +1,7 @@
 ---
 title: Základna
 layout: default
-parent: Kostra racku
+parent: Sestavení racku
 nav_order: 1
 ---
 

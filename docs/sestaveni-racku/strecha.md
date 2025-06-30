@@ -1,7 +1,7 @@
 ---
 title: Střecha
 layout: default
-parent: Kostra racku
+parent: Sestavení racku
 nav_order: 3
 ---
 

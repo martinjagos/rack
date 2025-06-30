@@ -1,7 +1,7 @@
 ---
 title: Tělo
 layout: default
-parent: Kostra racku
+parent: Sestavení racku
 nav_order: 2
 ---
 

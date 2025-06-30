@@ -4,34 +4,50 @@ layout: home
 nav_order: 1
 ---
 
-# Návod na modulární 10'' rack
+# Modulární 10" Desktop Rack
 
 ---
 
-## **Představení projektu**
+## Přehled projektu
 
-![alt](/images/P1470473.JPG){: .col}
-- Model stolního racku určený pro domácí použití.
-- Rack je navržen pro 3D tisk a jeho největší předností je modularita a rozšiřitelnost.
-- Díky této vlastnosti si každý uživatel může vytvořit různě velká řešení podle svých potřeb a preferencí.
-{: .col}
-<br style="clear: left;" />
-
-Práce zahrnuje i pár nejdůležitějších modulů jako: modul pro chytrou správu teploty a vlhkosti, modul pro připevnění síťových zařízení a modul pro jednodeskový počítač Raspberry Pi 5, který je obohacen o jednoduchou správu a kontrolu přes rotační enkodér, tlačítka a displej.
-{: .step}
-
-Díky prvnímu zmíněnému modulu může uživatel kontrolovat stav teploty a vlhkosti racku přes Wi-Fi a zobrazovat si jej na počítači nebo chytrém telefonu. Jednočipový počítač podle těchto hodnot automaticky určí míru regulace teploty, bez které by se zařízení v racku jednoduše mohla přehřát. Druhý zmíněný modul, tj. modul pro připevnění síťových zařízení, řeší problém připevnění síťových zařízení, které jsou určeny pro stolní domácí řešení a standartně nemají možnost připevnění do racku.
-{: .step}
-
-Důležitou součástí návrhu je také kompatibilita s běžnými racky. Řešení umožňuje připojení síťových prvků, jako budou routery, switche, patch panely a další zařízení standartních rozměrů. Mechanické prvky racku jsou navrženy tak, aby umožnily pevné a spolehlivé připevnění zařízení pomocí kovových šroubů a matic. Výsledný model je publikován [zde](https://www.printables.com/model/1246254-desktop-10-rack) pro veřejné použití a každý uživatel si ho může upravit podle svých potřeb.
-{: .step}
+> Modulární stolní 10" rack navržený pro 3D tisk, ideální pro domácí laboratoře i kanceláře. Hlavní přednosti:
+- **Modularita** – snadné přidávání i odebírání jednotlivých modulů podle potřeby.  
+- **Rozšiřitelnost** – volitelné komponenty pro různé aplikace.  
+- **Kompatibilita** – podporuje standardní 19" síťová zařízení i jednodeskové počítače.  
+- **Domácí použití** – kompaktní rozměry a jednoduchá instalace.
 
 ---
 
-## **Licence**
-Tento projekt je licencovaný pod [General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
-{: .step}
+## Klíčové moduly
+
+1. **Správa teploty a vlhkosti**  
+   - Integrované senzory měří vnitřní teplotu a vlhkost.  
+   - Jednodeskový počítač automaticky řídí ventilátory podle naměřených hodnot.  
+   - Data lze sledovat přes Wi-Fi na počítači nebo mobilním zařízení.
+
+2. **Síťový modul**  
+   - Univerzální držáky pro routery, switche, patch panely a další 19" prvky.  
+   - Pevné uchycení pomocí kovových šroubů a matic zajišťuje spolehlivost.
+
+3. **Raspberry Pi 5**  
+   - Slot pro Raspberry Pi 5 s ovládacím panelem (rotační enkodér, tlačítka, displej).  
+   - Umožňuje přímé zapojení a správu jednodeskového počítače.
 
 ---
 
-[Další](/docs/zaciname/doporucene-nastaveni-tisku)
+## Další výhody
+
+- **Optimalizováno pro 3D tisk** – všechny díly navrženy pro snadnou výrobu na běžné tiskárně.  
+- **Standardizované rozměry** – kompatibilní s 10" rámečky a příslušenstvím.  
+- **Otevřený projekt** – STL soubory a dokumentace jsou veřejně dostupné: [Printables.com – Desktop 10" rack](https://www.printables.com/model/1246254-desktop-10-rack).  
+- **Bezpečné upevnění** – konstrukce garantuje dlouhodobou stabilitu.
+
+---
+
+## Licence
+
+Projekt je licencován pod [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+---
+
+[Další krok: Doporučené nastavení tisku](/zaciname/doporucene-nastaveni-tisku/)
