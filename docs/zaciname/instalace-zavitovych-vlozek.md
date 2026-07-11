@@ -20,7 +20,7 @@ Doporučuji kovové závitové vložky CNC Kitchen (k dostání na Prusa E-shopu
 
 ## **Krok 2:** Příprava
 
-![alt](/images/P1470368.JPG){: .col}
+![alt](/rack/images/P1470368.JPG){: .col}
 - Připravte páječku, závitové vložky, kleště nebo pinzetu a šroubovák  
 - Páječku předehřejte o 10 °C nad tiskovou teplotu použitého materiálu  
 {: .col}
@@ -30,7 +30,7 @@ Doporučuji kovové závitové vložky CNC Kitchen (k dostání na Prusa E-shopu
 
 ## **Krok 3:** Instalace
 
-![alt](/images/P1470372.JPG){: .col}
+![alt](/rack/images/P1470372.JPG){: .col}
 - Vložku nasaďte zkosenou stranou kolmo do otvoru  
 - Jemně zatlačte, aby byla zarovnaná s povrchem dílu  
 {: .col}

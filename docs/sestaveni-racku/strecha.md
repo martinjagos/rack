@@ -31,7 +31,7 @@ nav_order: 3
 
 ## **Krok 1:** Tisk
 
-![alt](/images/roof_print1.png){: .col}
+![alt](/rack/images/roof_print1.png){: .col}
 - Rozmístěte *roof_back-bar*, *roof_front-bar*, *roof_left-bar* a *roof_right-bar* podle obrázku  
 - Zapněte automatické generování podpěr  
 - Orientace *roof_lid* není kritická  
@@ -43,12 +43,12 @@ nav_order: 3
 
 ## **Krok 2:** Lepení
 
-![alt](/images/P1470444.JPG){: .col}
+![alt](/rack/images/P1470444.JPG){: .col}
 - Slepte *roof_back-bar*, *roof_front-bar*, *roof_left-bar* a *roof_right-bar*, zachovejte zkosení u předního dílu  
 {: .col}
 <br style="clear: left;" />
 
-![alt](/images/P1470448.JPG){: .col}
+![alt](/rack/images/P1470448.JPG){: .col}
 - Nalepte *roof_lid* do vyřezaného prostoru a zajistěte kolíky pro stabilitu  
 - Po zaschnutí zasunte střechu do kolejniček a utáhněte dvěma šrouby M3×6 zezadu  
 {: .col}

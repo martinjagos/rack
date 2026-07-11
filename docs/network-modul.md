@@ -39,7 +39,7 @@ nav_order: 4
 ---
 
 ## **Krok 1:** Tisk
-![alt](/images/network_print1.png){: .col}
+![alt](/rack/images/network_print1.png){: .col}
 - Ve Sliceru položte objekty, tak jsou ukázané na obrázku
 {: .col}
 <br style="clear: left;" />
@@ -47,7 +47,7 @@ nav_order: 4
 ---
 
 ## **Krok 2:** Závitové vložky
-![alt](/images/P1470449.JPG){: .col}
+![alt](/rack/images/P1470449.JPG){: .col}
 - Nainstalujte záitové vložky do všech otvorů modelu *network_base*, jak horizontálně, tak vertikálně
 {: .col}
 <br style="clear: left;" />
@@ -55,7 +55,7 @@ nav_order: 4
 ---
 
 ## **Krok 3:** Protizkluzové samolepky
-![alt](/images/P1470454.JPG){: .col}
+![alt](/rack/images/P1470454.JPG){: .col}
 - Přilepte na strany modelů *network_left-hand* a *netwoork_right-hand* protizkluzové samolepky
 {: .col}
 <br style="clear: left;" />
@@ -63,7 +63,7 @@ nav_order: 4
 ---
 
 ## **Krok 4:** Připevnění zařízení
-![alt](/images/P1470456.JPG){: .col}
+![alt](/rack/images/P1470456.JPG){: .col}
 - Vyměřte si pomocí zařízení, kam umístit držáky
 - Připevněte držáky šrouby M3x6 (Jestě je nedotahujte)
 - Umístěte vaše zařízení na *network_base* a utáhněte šrouby

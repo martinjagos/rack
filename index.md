@@ -8,7 +8,7 @@ nav_order: 1
 
 ---
 
-![alt](/images/P1470473.JPG){: .center}
+![alt](/rack/images/P1470473.JPG){: .center}
 
 ## **Představení projektu**
 

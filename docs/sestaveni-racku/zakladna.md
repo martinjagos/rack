@@ -34,7 +34,7 @@ nav_order: 1
 
 ## **Krok 1:** Tisk
 
-![alt](/images/base_print1.png){: .col}
+![alt](/rack/images/base_print1.png){: .col}
 - Ve Sliceru rozmístěte díly tak, jak je na obrázku  
 - Aktivujte podpěry pro všechny převisy  
 - Orientace dílu *base_lid* není kritická  
@@ -46,19 +46,19 @@ nav_order: 1
 
 ## **Krok 2:** Vložení závitových vložek
 
-![alt](/images/P1470375.JPG){: .col}
+![alt](/rack/images/P1470375.JPG){: .col}
 - Do *base_front-bar* zatlačte 3 vložky  
 - Totéž proveďte u *base_back-bar*  
 {: .col}
 <br style="clear: left;" />
 
-![alt](/images/P1470376.JPG){: .col}
+![alt](/rack/images/P1470376.JPG){: .col}
 - Na boční stěnu *base_left-bar* vložte 1 vložku  
 - Stejně postupujte u *base_right-bar*  
 {: .col}
 <br style="clear: left;" />
 
-![alt](/images/P1470417.JPG){: .col}
+![alt](/rack/images/P1470417.JPG){: .col}
 - Zezadu doplňte 1 vložku do *base_left-bar*  
 - Totéž na *base_right-bar*  
 {: .col}
@@ -68,7 +68,7 @@ nav_order: 1
 
 ## **Krok 3:** Lepení
 
-![alt](/images/P1470390.JPG){: .col}
+![alt](/rack/images/P1470390.JPG){: .col}
 - Slepte díly *base_back-bar*, *base_front-bar*, *base_left-bar* a *base_right-bar* přesně podle fotografie  
 - Ujistěte se, že zkosené hrany dílů lícují bez mezer  
 {: .col}
@@ -78,7 +78,7 @@ nav_order: 1
 
 ## **Krok 4:** Montáž spodního víka
 
-![alt](/images/P1470394.JPG){: .col}
+![alt](/rack/images/P1470394.JPG){: .col}
 - Přiložte *base_lid* ke dnu základny  
 - Upevněte 8 šroubů M3×6, dokud není víko pevné  
 {: .col}

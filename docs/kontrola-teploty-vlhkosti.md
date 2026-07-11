@@ -40,7 +40,7 @@ nav_order: 5
 ---
 
 ## **Krok 1:** Tisk
-![alt](/images/fan_print1.png){: .col}
+![alt](/rack/images/fan_print1.png){: .col}
 - Položte modely na tiskovou podložku tak, jak je ukázané na obrázku.
 {: .col}
 <br style="clear: left;" />
@@ -48,13 +48,13 @@ nav_order: 5
 ---
 
 ## **Krok 2:** Závitové vložky
-![alt](/images/P1470459.JPG){: .col}
+![alt](/rack/images/P1470459.JPG){: .col}
 - Přidejte 5 závitových vložek M2,5x4 (na obrázku vpravo)
 - Přidejte 4 závitové vložky M3x3 na místo větráku (na obrázku vlevo)
 {: .col}
 <br style="clear: left;" />
 
-![alt](/images/P1470460.JPG){: .col}
+![alt](/rack/images/P1470460.JPG){: .col}
 - Zaveďte 4 závitové vložky na stranu modelu 
 - Stejně zopakujte i na druhé straně
 {: .col}
@@ -63,7 +63,7 @@ nav_order: 5
 ---
 
 ## **Krok 3:** Instalace elektroniky
-![alt](/images/P1470462.JPG){: .col}
+![alt](/rack/images/P1470462.JPG){: .col}
 - Přidělejte větrák čtyřmi šrouby M3x20, dejte si pozor, na polohu větráku
 - Přidělejte senzor teploty sřrouby M2,5x7 podle obrázku
 - Přidělejte mikrokotroler pomocí tří šroubů M2,5x7, aby konektor směřoval od senzoru
@@ -73,7 +73,7 @@ nav_order: 5
 ---
 
 ## **Krok 4:** Zapojení
-![alt](/images/P1470465.JPG){: .col}
+![alt](/rack/images/P1470465.JPG){: .col}
 - Propojte piny senzoru následovně (číslování je na obrázku od horního pinu):
     - 1 -> 3v3
     - 2 -> GND
@@ -90,7 +90,7 @@ nav_order: 5
 ---
 
 ## **Krok 5:** Zprovoznění
-![alt](/images/fan_thingspeak.png){: .col}
+![alt](/rack/images/fan_thingspeak.png){: .col}
 - Doporučuji použít platformu ThingSpeak, pro kterou je napsaný skript, plaftorma je bezplatná
 - Vytvořte si účet na ThingSpeaku a vytvořte váš kanál přes kliknutím na tlačítko New Channel na stránce https://thingspeak.mathworks.com/channels
 - Pojmenujte si váš kanál, do kolonky Field 1 napište např. Teplota a do kolonky Field 2 napiště např. Vlhkost
